@@ -1,0 +1,15 @@
+C:\Users\rican\RiderProjects\ConsoleApp\BankModal\bin\Debug\net6.0\BankModal.exe
+C:\Users\rican\RiderProjects\ConsoleApp\BankModal\bin\Debug\net6.0\BankModal.deps.json
+C:\Users\rican\RiderProjects\ConsoleApp\BankModal\bin\Debug\net6.0\BankModal.runtimeconfig.json
+C:\Users\rican\RiderProjects\ConsoleApp\BankModal\bin\Debug\net6.0\BankModal.dll
+C:\Users\rican\RiderProjects\ConsoleApp\BankModal\bin\Debug\net6.0\BankModal.pdb
+C:\Users\rican\RiderProjects\ConsoleApp\BankModal\obj\Debug\net6.0\BankModal.csproj.AssemblyReference.cache
+C:\Users\rican\RiderProjects\ConsoleApp\BankModal\obj\Debug\net6.0\BankModal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rican\RiderProjects\ConsoleApp\BankModal\obj\Debug\net6.0\BankModal.AssemblyInfoInputs.cache
+C:\Users\rican\RiderProjects\ConsoleApp\BankModal\obj\Debug\net6.0\BankModal.AssemblyInfo.cs
+C:\Users\rican\RiderProjects\ConsoleApp\BankModal\obj\Debug\net6.0\BankModal.csproj.CoreCompileInputs.cache
+C:\Users\rican\RiderProjects\ConsoleApp\BankModal\obj\Debug\net6.0\BankModal.dll
+C:\Users\rican\RiderProjects\ConsoleApp\BankModal\obj\Debug\net6.0\refint\BankModal.dll
+C:\Users\rican\RiderProjects\ConsoleApp\BankModal\obj\Debug\net6.0\BankModal.pdb
+C:\Users\rican\RiderProjects\ConsoleApp\BankModal\obj\Debug\net6.0\BankModal.genruntimeconfig.cache
+C:\Users\rican\RiderProjects\ConsoleApp\BankModal\obj\Debug\net6.0\ref\BankModal.dll

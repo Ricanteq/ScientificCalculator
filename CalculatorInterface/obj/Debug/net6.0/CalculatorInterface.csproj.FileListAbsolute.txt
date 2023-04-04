@@ -1,0 +1,15 @@
+C:\Users\rican\RiderProjects\ConsoleApp\CalculatorInterface\bin\Debug\net6.0\CalculatorInterface.exe
+C:\Users\rican\RiderProjects\ConsoleApp\CalculatorInterface\bin\Debug\net6.0\CalculatorInterface.deps.json
+C:\Users\rican\RiderProjects\ConsoleApp\CalculatorInterface\bin\Debug\net6.0\CalculatorInterface.runtimeconfig.json
+C:\Users\rican\RiderProjects\ConsoleApp\CalculatorInterface\bin\Debug\net6.0\CalculatorInterface.dll
+C:\Users\rican\RiderProjects\ConsoleApp\CalculatorInterface\bin\Debug\net6.0\CalculatorInterface.pdb
+C:\Users\rican\RiderProjects\ConsoleApp\CalculatorInterface\obj\Debug\net6.0\CalculatorInterface.csproj.AssemblyReference.cache
+C:\Users\rican\RiderProjects\ConsoleApp\CalculatorInterface\obj\Debug\net6.0\CalculatorInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rican\RiderProjects\ConsoleApp\CalculatorInterface\obj\Debug\net6.0\CalculatorInterface.AssemblyInfoInputs.cache
+C:\Users\rican\RiderProjects\ConsoleApp\CalculatorInterface\obj\Debug\net6.0\CalculatorInterface.AssemblyInfo.cs
+C:\Users\rican\RiderProjects\ConsoleApp\CalculatorInterface\obj\Debug\net6.0\CalculatorInterface.csproj.CoreCompileInputs.cache
+C:\Users\rican\RiderProjects\ConsoleApp\CalculatorInterface\obj\Debug\net6.0\CalculatorInterface.dll
+C:\Users\rican\RiderProjects\ConsoleApp\CalculatorInterface\obj\Debug\net6.0\refint\CalculatorInterface.dll
+C:\Users\rican\RiderProjects\ConsoleApp\CalculatorInterface\obj\Debug\net6.0\CalculatorInterface.pdb
+C:\Users\rican\RiderProjects\ConsoleApp\CalculatorInterface\obj\Debug\net6.0\CalculatorInterface.genruntimeconfig.cache
+C:\Users\rican\RiderProjects\ConsoleApp\CalculatorInterface\obj\Debug\net6.0\ref\CalculatorInterface.dll
